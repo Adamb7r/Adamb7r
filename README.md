@@ -19,11 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Adamb7r/README.md/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/Adamb7r/Adamb7r/blob/output/github-contribution-grid-snake.svg)
